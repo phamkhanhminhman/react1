@@ -1,0 +1,32 @@
+[
+    {
+        "id":1,
+        "name":"minh",
+        "tel":"0123",
+        "Permission":1
+    },
+    {
+        "id":2,
+        "name":"man",
+        "tel":"01234",
+        "Permission":2
+    },
+    {
+        "id":3,
+        "name":"Minh",
+        "tel":"0935",
+        "Permission":2
+    },
+    {
+        "id":4,
+        "name":"Man",
+        "tel":"0155",
+        "Permission":2
+    },
+    {
+        "id":5,
+        "name":"Phuong",
+        "tel":"0155",
+        "Permission":2
+    }
+]
